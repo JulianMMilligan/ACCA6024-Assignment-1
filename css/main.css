@@ -1,0 +1,30 @@
+.fakeData {
+    height: 300px;
+    background: #aaa;
+    padding: 10px;
+  }
+
+  .fakeDataIntro{
+    padding:10px;
+  }
+
+  .fakePosts {
+    height: auto;
+    background: #aaa;
+    padding: 10px;
+  }
+
+  .fakePostIntro{
+    padding:10px;
+  }
+
+  .col-sm-8 {
+    padding: 10px;
+  }
+
+
+  .contactUsForm {
+    height: 300px;
+    background: #aaa;
+    padding: 10px;
+  }
