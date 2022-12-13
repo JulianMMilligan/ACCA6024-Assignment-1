@@ -216,8 +216,7 @@ $(function () {
     {
         
         var postResultsHtml = "";
-
-        
+        //console.table(json);        
 
         for (let i = 0; i < Object.keys(json).length ; i++)//loop to show all entires for user
         {
