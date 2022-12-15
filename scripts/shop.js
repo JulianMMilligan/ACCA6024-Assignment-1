@@ -24,6 +24,7 @@ function test(e)
 function addToCart (e)
 {
     let id = $(this).attr('data-id');
+    //test
 
     console.log (`I hope this working and the id = ${id}`);
     e.preventDefault();
